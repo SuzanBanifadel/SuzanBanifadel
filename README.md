@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suzan Banifadel</h1>
-<h3 align="center">A passionate Palestinaian 🇵🇸 Backend developer 🤩</h3>
+<h3 align="center">A passionate Palestinaian 🇵🇸 backend developer 🤩</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suzanbanifadel&label=Profile%20views&color=0e75b6&style=flat" alt="suzanbanifadel" /> </p>
 
