@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://app.daily.dev/SuzanBanifadel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="suzanbanifadel" height="30" width="40" /></a>
+<a href="https://app.daily.dev/SuzanBanifadel" target="blank"><img align="center" src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="suzanbanifadel" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/suzan-banifadel-035b27113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suzan-banifadel" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/suzan_banifadel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="suzan_banifadel" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/suzan_banifadel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="suzan_banifadel" height="30" width="40" /></a>
