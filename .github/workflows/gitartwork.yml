@@ -9,10 +9,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: suzan/gitartwork@v1
+      - uses: jasineri/gitartwork@v1
         with:
            # Use this username's contribution graph  
-           user_name: suzan
+           user_name: jasineri
            # Text on contribution graph 
            text: SUZAN
-      - uses: suzan/simple-push-action@v1
+      - uses: jasineri/simple-push-action@v1
